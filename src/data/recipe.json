@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "title": "Masala Dosa",
+    "image": "/images/masala-dosa.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "2 cups rice",
+      "1/2 cup urad dal",
+      "1/4 tsp fenugreek seeds",
+      "2 boiled potatoes",
+      "1 onion, sliced",
+      "1/2 tsp turmeric",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Soak rice, urad dal, and fenugreek overnight.",
+      "Grind into a smooth batter and ferment overnight.",
+      "Cook dosa on a hot pan.",
+      "Prepare potato filling with onions, turmeric, and boiled potatoes.",
+      "Serve dosa stuffed with masala filling."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Idli Sambar",
+    "image": "/images/idli-sambar.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "2 cups idli batter",
+      "1 cup toor dal",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1/2 tsp turmeric",
+      "1 tbsp sambar powder",
+      "Tamarind pulp",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Steam the idlis using fermented batter.",
+      "Cook toor dal with turmeric until soft.",
+      "Add onions, tomatoes, tamarind pulp, and sambar powder.",
+      "Simmer well and serve hot with idlis."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Lemon Rice",
+    "image": "/images/lemon-rice.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "2 cups cooked rice",
+      "2 green chilies, slit",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "1/4 tsp turmeric powder",
+      "Juice of 1 lemon",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil in a pan and add mustard seeds.",
+      "Add urad dal, chana dal, green chilies, and curry leaves.",
+      "Mix in turmeric and salt.",
+      "Add lemon juice and cooked rice.",
+      "Toss well and serve."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Tamarind Rice",
+    "image": "/images/tamarind-rice.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "2 cups cooked rice",
+      "1/2 cup tamarind extract",
+      "2 dried red chilies",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "Curry leaves",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil and add mustard seeds, red chilies, urad dal, and chana dal.",
+      "Add curry leaves and tamarind extract.",
+      "Cook until the raw smell goes away.",
+      "Mix with cooked rice and serve."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Vegetable Upma",
+    "cuisine": "South Indian",
+    "image": "/images/vegetable-upma.jpg",
+    "ingredients": [
+      "1 cup rava (semolina)",
+      "2 cups water",
+      "1 onion, chopped",
+      "1 carrot, chopped",
+      "1/4 cup beans, chopped",
+      "1 green chili, slit",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Roast rava until lightly golden and set aside.",
+      "Heat oil, add mustard seeds, urad dal, chana dal, and curry leaves.",
+      "Add onions, carrots, beans, and green chili. Sauté well.",
+      "Pour in water and add salt.",
+      "Slowly add roasted rava while stirring to avoid lumps.",
+      "Cook until soft and serve hot."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Pongal",
+    "cuisine": "South Indian",
+    "image": "/images/pongal.jpg",
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup moong dal",
+      "1 tsp black pepper",
+      "1 tsp cumin seeds",
+      "1 inch ginger, chopped",
+      "2 tbsp ghee",
+      "10 cashew nuts",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Cook rice and moong dal together until soft.",
+      "Heat ghee, fry cashew nuts until golden, then add ginger, cumin, and black pepper.",
+      "Mix seasoning into cooked pongal.",
+      "Serve hot with coconut chutney or sambar."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Rasam Rice",
+    "image": "/images/rasam-rice.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "2 cups cooked rice",
+      "1/2 cup tamarind water",
+      "2 tomatoes, chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp rasam powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp mustard seeds",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Boil tamarind water with tomatoes, garlic, turmeric, and rasam powder.",
+      "Temper mustard seeds and curry leaves in oil and add to rasam.",
+      "Mix rasam with rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tomato Rice",
+    "image": "/images/tomato-rice.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "2 cups cooked rice",
+      "2 tomatoes, chopped",
+      "1 onion, chopped",
+      "2 green chilies",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1 tsp mustard seeds",
+      "Curry leaves",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil and add mustard seeds and curry leaves.",
+      "Add onions, green chilies, and ginger-garlic paste. Sauté well.",
+      "Add chopped tomatoes, turmeric, and garam masala. Cook until soft.",
+      "Mix with cooked rice and serve hot."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Coconut Rice",
+    "image": "/images/coconut-rice.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "2 cups cooked rice",
+      "1 cup grated coconut",
+      "2 green chilies, slit",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "Curry leaves",
+      "2 tsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil in a pan and add mustard seeds.",
+      "Once they splutter, add urad dal, chana dal, green chilies, and curry leaves.",
+      "Add grated coconut and sauté lightly.",
+      "Mix with cooked rice and add salt to taste.",
+      "Serve with pickle or curry."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Chettinad Chicken Curry",
+    "image": "/images/Chettinad-Chicken-Curry.jpg",
+    "cuisine": "South Indian",
+    "ingredients": [
+      "500g chicken, cut into pieces",
+      "2 onions, finely chopped",
+      "2 tomatoes, chopped",
+      "1 tbsp ginger-garlic paste",
+      "2 tbsp Chettinad masala powder",
+      "1/2 tsp turmeric",
+      "1 cup coconut milk",
+      "3 tbsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil in a pan and sauté onions until golden.",
+      "Add ginger-garlic paste and tomatoes, cook until soft.",
+      "Add turmeric and Chettinad masala powder, fry well.",
+      "Add chicken pieces and cook until browned.",
+      "Pour coconut milk, cover, and cook until chicken is tender.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Butter Chicken",
+    "image": "/images/butter-chicken.jpg",
+    "cuisine": "North Indian",
+    "ingredients": [
+      "500g chicken",
+      "2 onions (finely chopped)",
+      "3 tomatoes (pureed)",
+      "2 tbsp butter",
+      "1/2 cup cream",
+      "1 tbsp ginger-garlic paste",
+      "Spices (turmeric, chili powder, garam masala)"
+    ],
+    "steps": [
+      "Marinate chicken with yogurt and spices for 1 hour.",
+      "Grill or pan-fry chicken until half cooked.",
+      "Heat butter, sauté onions and ginger-garlic paste.",
+      "Add tomato puree and spices, cook until oil separates.",
+      "Add chicken and cream, simmer until fully cooked."
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Paneer Butter Masala",
+    "image": "/images/paneer-butter-masala.jpg",
+    "cuisine": "North Indian",
+    "ingredients": [
+      "200g paneer (cubes)",
+      "2 tbsp butter",
+      "2 onions (chopped)",
+      "3 tomatoes (pureed)",
+      "1/2 cup cream",
+      "Spices (garam masala, chili powder, turmeric)"
+    ],
+    "steps": [
+      "Fry paneer cubes lightly and set aside.",
+      "In butter, sauté onions and add tomato puree.",
+      "Add spices and cook until oil separates.",
+      "Stir in cream and paneer cubes.",
+      "Simmer for 5 minutes and serve hot."
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Chole Bhature",
+    "image": "/images/chole-bhature.jpg",
+    "cuisine": "North Indian",
+    "ingredients": [
+      "2 cups chickpeas (soaked overnight)",
+      "2 onions (chopped)",
+      "3 tomatoes (pureed)",
+      "2 cups flour",
+      "2 tbsp yogurt",
+      "Oil for frying",
+      "Spices (coriander powder, cumin, garam masala)"
+    ],
+    "steps": [
+      "Pressure cook chickpeas until soft.",
+      "Sauté onions and tomatoes with spices.",
+      "Add chickpeas and simmer until gravy thickens.",
+      "Knead flour with yogurt, rest for 30 min.",
+      "Roll and deep-fry bhature until golden."
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Rajma Chawal",
+    "image": "/images/rajma-chawal.jpg",
+    "cuisine": "North Indian",
+    "ingredients": [
+      "2 cups kidney beans (soaked overnight)",
+      "2 onions (chopped)",
+      "2 tomatoes (pureed)",
+      "2 cups rice",
+      "Spices (ginger, garlic, cumin, garam masala)"
+    ],
+    "steps": [
+      "Boil rajma (kidney beans) until soft.",
+      "Cook onions, tomatoes, and spices into a gravy.",
+      "Add rajma to the gravy and simmer for 15 minutes.",
+      "Cook rice separately.",
+      "Serve hot rajma with rice."
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Aloo Paratha",
+    "image": "/images/aloo-paratha.jpg",
+    "cuisine": "North Indian",
+    "ingredients": [
+      "2 cups wheat flour",
+      "3 potatoes (boiled and mashed)",
+      "2 green chilies (chopped)",
+      "Coriander leaves",
+      "Spices (cumin, chili powder, salt)",
+      "Ghee or butter for frying"
+    ],
+    "steps": [
+      "Knead dough with wheat flour and water.",
+      "Mix mashed potatoes with spices and coriander.",
+      "Roll dough, stuff with potato filling, and seal.",
+      "Roll again gently into paratha shape.",
+      "Cook on tawa with ghee until golden."
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+.recipe-card img {
+  width: 250px;       /* set a fixed width */
+  height: auto;       /* keeps aspect ratio */
+  border-radius: 8px; /* optional: rounded corners */
+  display: block;     /* prevents inline spacing issues */
+  margin-bottom: 10px;
+}
